@@ -6,7 +6,10 @@ namespace HelloWorld0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Niklas!");
+            var age = Console.ReadLine();
+            var name = Console.ReadLine();
+            Console.WriteLine("Your age is " + age);
+            Console.WriteLine("And your name is " + name + "!");
         }
     }
 }
