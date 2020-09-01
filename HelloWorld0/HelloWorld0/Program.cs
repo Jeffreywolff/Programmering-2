@@ -10,7 +10,7 @@ namespace HelloWorld0
             String name;
             Console.WriteLine("What is your legal age?");
             var age = Console.ReadLine();
-            var intAge = Convert.ToInt32(age);
+            
 
             Console.WriteLine("What is your legal name?");
             name = Console.ReadLine();
