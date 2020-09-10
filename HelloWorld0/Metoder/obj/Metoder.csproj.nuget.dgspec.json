@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\HelloWorld0\\HelloWorld0.csproj": {}
+    "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\Metoder\\Metoder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\HelloWorld0\\HelloWorld0.csproj": {
+    "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\Metoder\\Metoder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\HelloWorld0\\HelloWorld0.csproj",
-        "projectName": "HelloWorld0",
-        "projectPath": "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\HelloWorld0\\HelloWorld0.csproj",
+        "projectUniqueName": "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\Metoder\\Metoder.csproj",
+        "projectName": "Metoder",
+        "projectPath": "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\Metoder\\Metoder.csproj",
         "packagesPath": "C:\\Users\\Wolff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\HelloWorld0\\obj\\",
+        "outputPath": "C:\\Users\\Wolff\\OneDrive\\Dokument\\Github Repos\\School\\Programmering-2\\HelloWorld0\\Metoder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wolff\\AppData\\Roaming\\NuGet\\NuGet.Config",

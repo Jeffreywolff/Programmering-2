@@ -1,0 +1,13 @@
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\bin\Debug\netcoreapp3.1\Metoder.exe
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\bin\Debug\netcoreapp3.1\Metoder.deps.json
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.json
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\bin\Debug\netcoreapp3.1\Metoder.runtimeconfig.dev.json
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\bin\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\bin\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfoInputs.cache
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\obj\Debug\netcoreapp3.1\Metoder.AssemblyInfo.cs
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\obj\Debug\netcoreapp3.1\Metoder.csproj.CoreCompileInputs.cache
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\obj\Debug\netcoreapp3.1\Metoder.dll
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\obj\Debug\netcoreapp3.1\Metoder.pdb
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\obj\Debug\netcoreapp3.1\Metoder.genruntimeconfig.cache
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\Metoder\obj\Debug\netcoreapp3.1\Metoder.csprojAssemblyReference.cache

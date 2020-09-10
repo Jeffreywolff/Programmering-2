@@ -11,3 +11,16 @@ C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\HelloWorld0\HelloWorld0\
 C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.dll
 C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.pdb
 C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.genruntimeconfig.cache
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\bin\Debug\netcoreapp3.1\HelloWorld0.exe
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\bin\Debug\netcoreapp3.1\HelloWorld0.deps.json
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\bin\Debug\netcoreapp3.1\HelloWorld0.runtimeconfig.json
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\bin\Debug\netcoreapp3.1\HelloWorld0.runtimeconfig.dev.json
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\bin\Debug\netcoreapp3.1\HelloWorld0.dll
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\bin\Debug\netcoreapp3.1\HelloWorld0.pdb
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.csprojAssemblyReference.cache
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.AssemblyInfoInputs.cache
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.AssemblyInfo.cs
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.csproj.CoreCompileInputs.cache
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.dll
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.pdb
+C:\Users\Wolff\OneDrive\Dokument\Github Repos\School\Programmering-2\HelloWorld0\HelloWorld0\obj\Debug\netcoreapp3.1\HelloWorld0.genruntimeconfig.cache
