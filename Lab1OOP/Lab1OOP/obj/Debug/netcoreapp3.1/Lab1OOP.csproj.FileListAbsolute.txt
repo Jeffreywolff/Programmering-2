@@ -1,0 +1,13 @@
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\bin\Debug\netcoreapp3.1\Lab1OOP.exe
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\bin\Debug\netcoreapp3.1\Lab1OOP.deps.json
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\bin\Debug\netcoreapp3.1\Lab1OOP.runtimeconfig.json
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\bin\Debug\netcoreapp3.1\Lab1OOP.runtimeconfig.dev.json
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\bin\Debug\netcoreapp3.1\Lab1OOP.dll
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\bin\Debug\netcoreapp3.1\Lab1OOP.pdb
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\obj\Debug\netcoreapp3.1\Lab1OOP.csprojAssemblyReference.cache
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\obj\Debug\netcoreapp3.1\Lab1OOP.AssemblyInfoInputs.cache
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\obj\Debug\netcoreapp3.1\Lab1OOP.AssemblyInfo.cs
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\obj\Debug\netcoreapp3.1\Lab1OOP.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\obj\Debug\netcoreapp3.1\Lab1OOP.dll
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\obj\Debug\netcoreapp3.1\Lab1OOP.pdb
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\Lab1OOP\Lab1OOP\obj\Debug\netcoreapp3.1\Lab1OOP.genruntimeconfig.cache
