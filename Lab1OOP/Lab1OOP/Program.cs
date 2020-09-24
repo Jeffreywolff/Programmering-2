@@ -24,6 +24,7 @@ namespace Lab1OOP
             int loop = 0;
             while (loop != 1)
             {
+                Console.WriteLine("Enter an item or exit shopping: ");
                 choice = Console.ReadLine();
                 switch (choice)
                 {
@@ -40,6 +41,7 @@ namespace Lab1OOP
                         Console.WriteLine("Thats not a valid input! Try again");
                         break;
                 }
+                Console.WriteLine( name + " cart:");
                 PrintStringList(name1._customerCart);
             }
 
@@ -47,10 +49,10 @@ namespace Lab1OOP
 
         public static void PrintStringList(List<string> list)
         {
-            string listItems = "//";
+            string listItems = "";
             foreach (var item in list)
             {
-                listItems += item + " \n";
+                listItems += "//" + item + " \n";
             }
             
             Console.WriteLine(listItems);
