@@ -6,7 +6,8 @@ namespace Lab1OOP
 {
     class Customer
     {
-        public List<string> _customerCart = new List<string>();
+        
+        public List<Product> _customerCart = new List<Product>();
         
     }
 }

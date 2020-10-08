@@ -11,8 +11,8 @@ namespace Lab1OOP
                 "\n Start by Entering your name, so we can associate you with the products!" +
                 "\n Enter your name: ");
             string name = Console.ReadLine();
-            Customer name1 = new Customer();
-            Product items = new Product();
+            Customer customer = new Customer();
+            
             Console.WriteLine("Thank you " + name + "! " +
                 "\n Now you will get a visual menu, where you can choose the item you want to" +
                 "\n add to your grocery list. Type the name of the product you wanna add: (Example item1)" +
@@ -21,38 +21,41 @@ namespace Lab1OOP
                 "\n exit - Done shopping");
             string choice;
 
-            int loop = 0;
-            while (loop != 1)
+            bool loop = true;
+            while (loop)
             {
+                Product product = new Product();
                 Console.WriteLine("Enter an item or exit shopping: ");
                 choice = Console.ReadLine();
                 switch (choice)
                 {
                     case "item1":
-                        name1._customerCart.Add(items.item1);
+                        product.productType = "Banan";
+                        customer._customerCart.Add(product);
                         break;
                     case "item2":
-                        name1._customerCart.Add(items.item2);
+                        product.productType = "Apple";
+                        customer._customerCart.Add(product);
                         break;
                     case "exit":
-                        loop = 1;
+                        loop = false;
                         break;
                     default:
                         Console.WriteLine("Thats not a valid input! Try again");
                         break;
                 }
                 Console.WriteLine( name + " cart:");
-                PrintStringList(name1._customerCart);
+                PrintStringList(customer._customerCart);
             }
 
         }
 
-        public static void PrintStringList(List<string> list)
+        public static void PrintStringList(List<Product> list)
         {
             string listItems = "";
-            foreach (var item in list)
+            foreach (Product item in list)
             {
-                listItems += "//" + item + " \n";
+                listItems += "//" + item.productType + " \n";
             }
             
             Console.WriteLine(listItems);

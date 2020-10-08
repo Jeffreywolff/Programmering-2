@@ -6,8 +6,8 @@ namespace Lab1OOP
 {
     class Product
     {
-        public string  item1 = "Banana";
-        public string item2 = "Apple";
+        public string productType;
+        
 
     }
 }
