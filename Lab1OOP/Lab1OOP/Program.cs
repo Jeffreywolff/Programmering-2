@@ -30,7 +30,7 @@ namespace Lab1OOP
             bool loop = true;
             while (loop)
             {
-                var product = new Product();
+                
                 var fruit = new Fruit();
                 var meat = new Meat();
                 var animal = new Animals();
@@ -39,21 +39,23 @@ namespace Lab1OOP
                 switch (choice)
                 {
                     case "banana":
-                        product.productType = "Banana";
-                        customer._customerCart.Add(product);
+                        fruit.itemType = "Banana/yellow";
+                        customer._customerCart.Add(fruit);
                         break;
+
                     case "giraffe":
-                        animal._animalType = "Long horse/ giraffe";
+                        animal.itemType = "Long horse/ giraffe";
                         customer._customerCart.Add(animal);
                         break;
-                    case "lion":
 
-                        product.productType = "Apple";
-                        customer._customerCart.Add(product);
+                    case "lion":
+                        animal.itemType = "Lion/Lioness"; 
+                        customer._customerCart.Add(animal);
                         break;
 
                     case "chorizo":
-                        meat
+                        meat.itemType ="Chorizo/ hotdog"; 
+                        customer._customerCart.Add(meat);
                         break;
 
                     case "exit":
@@ -72,9 +74,9 @@ namespace Lab1OOP
         public static void PrintStringList(List<Product> list)
         {
             string listItems = "";
-            foreach (Product item in list)
+            foreach (var item in list)
             {
-                listItems += "//" + item.productType + " \n";
+                listItems += "//" + item.itemType + " \n";
             }
             
             Console.WriteLine(listItems);
