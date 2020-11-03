@@ -1,0 +1,15 @@
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\bin\Debug\XAML_Start.exe.config
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\bin\Debug\XAML_Start.exe
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\bin\Debug\XAML_Start.pdb
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start.csprojAssemblyReference.cache
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\MainWindow.g.cs
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\App.g.cs
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start_MarkupCompile.cache
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start_MarkupCompile.lref
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\MainWindow.baml
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start.g.resources
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start.Properties.Resources.resources
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start.csproj.GenerateResource.cache
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start.exe
+C:\Users\Jeffrey.wolff\Documents\GitHub\Programmering-2\XAML_Start\XAML_Start\obj\Debug\XAML_Start.pdb
