@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NumpadTest"
         mc:Ignorable="d"
-        Title="MainWindow" Height="510" Width="338"
+        Title="Calculator" Height="510" Width="338"
         FontSize="20"
         FontWeight="Bold">
     
@@ -38,28 +38,29 @@
                 <RowDefinition/>
                 <RowDefinition/>
             </Grid.RowDefinitions>
-            <Button Grid.Column="0" Content="7" Click="Btn7_Click"/>
-            <Button Grid.Column="1" Content="8" Click="Btn8_Click"/>
-            <Button Grid.Column="2" Content="9" Click="Btn9_Click"/>
-            <Button Grid.Column="3" Content="+" Click="BtnPlus_Click"/>
+            <Button Grid.Column="0" Content="7" Click="Button_Click" Name="Btn_7"/>
+            <Button Grid.Column="1" Content="8" Click="Button_Click" Name="Btn_8"/>
+            <Button Grid.Column="2" Content="9" Click="Button_Click" Name="Btn_9"/>
+            <Button Grid.Column="3" Content="+" Click="Button_Click" Name="Btn_Plus"/>
 
-            <Button Grid.Column="0" Grid.Row="1" Content="4" Click="Btn4_Click"/>
-            <Button Grid.Column="1" Grid.Row="1" Content="5" Click="Btn5_Click"/>
-            <Button Grid.Column="2" Grid.Row="1" Content="6" Click="Btn6_Click"/>
-            <Button Grid.Column="3" Grid.Row="1" Content="-" Click="BtnMinus_Click"/>
+            <Button Grid.Column="0" Grid.Row="1" Content="4" Click="Button_Click" Name="Btn_4"/>
+            <Button Grid.Column="1" Grid.Row="1" Content="5" Click="Button_Click" Name="Btn_5"/>
+            <Button Grid.Column="2" Grid.Row="1" Content="6" Click="Button_Click" Name="Btn_6"/>
+            <Button Grid.Column="3" Grid.Row="1" Content="-" Click="Button_Click" Name="Btn_Minus"/>
 
-            <Button Grid.Column="0" Grid.Row="2" Content="1" Click="Btn1_Click"/>
-            <Button Grid.Column="1" Grid.Row="2" Content="2" Click="Btn2_Click"/>
-            <Button Grid.Column="2" Grid.Row="2" Content="3" Click="Btn3_Click"/>
-            <Button Grid.Column="3" Grid.Row="2" Content="." FontSize="40" Click="BtnMultiply_Click"/>
+            <Button Grid.Column="0" Grid.Row="2" Content="1" Click="Button_Click" Name="Btn_1"/>
+            <Button Grid.Column="1" Grid.Row="2" Content="2" Click="Button_Click" Name="Btn_2"/>
+            <Button Grid.Column="2" Grid.Row="2" Content="3" Click="Button_Click" Name="Btn_3"/>
+            <Button Grid.Column="3" Grid.Row="2" Content="*" FontSize="40" Click="Button_Click" Name="Btn_Multiply"/>
 
-            <Button Grid.Column="0" Grid.Row="3" Content="0" Click="Btn0_Click" Name="Btn0"/>
-            <Button Grid.Column="1" Grid.Row="3" Content="," Click="BtnComma_Click" Name="BtnComma"/>
-            <Button Grid.Column="2" Grid.Row="3" Content="Execute" Click="BtnExe_Click" Name="BtnExe"/>
-            <Button Grid.Column="3" Grid.Row="3" Content="/" Click="BtnDivide_Click" Name="BtnDivide"/>
+            <Button Grid.Column="0" Grid.Row="3" Content="0" Click="Button_Click" Name="Btn_0"/>
+            <Button Grid.Column="1" Grid.Row="3" Content="," Click="Button_Click" Name="Btn_Comma"/>
+            <Button Grid.Column="2" Grid.Row="3" Content="Execute" Click="Button_Click" Name="Btn_Exe"/>
+            <Button Grid.Column="3" Grid.Row="3" Content="/" Click="Button_Click" Name="Btn_Divide"/>
 
         </Grid>
-        <TextBox Text="Enter num"/>
+        
+        <TextBlock Name="inOutField"/>
     </Grid>
     
 

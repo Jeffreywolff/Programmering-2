@@ -25,5 +25,41 @@ namespace NumpadTest
             InitializeComponent();
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button btn)
+            {
+                
+
+                switch (btn.Content)
+                {
+                    case "0":
+                    case "1":
+                    case "2":
+                    case "3":
+                    case "4":
+                    case "5":
+                    case "6":
+                    case "7":
+                    case "8":
+                    case "9":
+                    case "+":
+                        inOutField.Text += btn.Content;
+                        break;
+                    case "Execute":
+                        string[] result = inOutField.Text.Split('+');
+                        float[] floatSum = Array.ConvertAll(result, float.Parse);
+                        float sum = floatSum.Sum();
+                        string sumView = sum.ToString();
+                        inOutField.Text = sumView;
+                        break;
+                    default:
+                        break;
+                }
+            }
+            
+
+        }
+                
     }
 }
